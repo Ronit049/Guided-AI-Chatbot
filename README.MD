@@ -58,7 +58,7 @@ guided-ai-chatbot/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/guided-ai-chatbot.git
+git clone https://github.com/Ronit049/Guided-AI-Chatbot.git
 
 cd guided-ai-chatbot
 ```
